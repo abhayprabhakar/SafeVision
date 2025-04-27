@@ -23,7 +23,7 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 # YOLOv8 for People Detection
 class PeopleDetectionModel:
     def __init__(self):
-        self.model = YOLO('yolov8n.pt')  # Pretrained YOLOv8 model
+        self.model = YOLO('models/yolov8n.pt')  # Pretrained YOLOv8 model
     
     def detect_people(self, frame):
         results = self.model(frame)
