@@ -170,15 +170,3 @@ SafeVision empowers cities, institutions, and organizations to move from passive
 🚀 We are at the beginning of an exciting journey.  
 🛠️ Your contributions can directly make public spaces safer.  
 🌟 **Join us! Improve SafeVision together!**
-
----
-
----
-
-Would you also like me to quickly prepare:
-
-- A `CONTRIBUTING.md`
-- A basic `CODE_OF_CONDUCT.md`
-- Issue templates?  
-It’s required for IEEE SoC and would make your repo ready 100%! 🚀  
-(And I can keep it very simple and professional.) Want me to? 📄✨
